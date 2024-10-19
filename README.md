@@ -1,5 +1,11 @@
 <h1 align="center">Hi there, I'm Sem<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"/ height="32" width="32"></h1>
-- 🔭 I’m working System Engineer in Rubytech<br>
-- 🎓 I'm developing in devops best practice<br>
-- 💻 Work with linux,bash,ansible<br>
-- 📫 How to reach me: it.just.cookies@gmail.com
+
+## About Me
+- 🔭 I’m a DevOps Engineer at Sbertech.<br>
+- 🚀📚 Constantly learning DevOps tools and best practices for efficient software delivery.<br>
+
+## Skills
+- 💻 In a fintech environment, I manage CI/CD with Jenkins, automate infrastructure with Ansible, support development teams, and troubleshoot OpenShift, K8s clusters, Kafka<br>
+
+## Contact
+- 📫 Reach me at: [it.just.cookies@gmail.com](mailto:it.just.cookies@gmail.com)
